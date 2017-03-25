@@ -1,0 +1,42 @@
+C:\teste\FiTCARD_Test\DataAccess\bin\Debug\DataAccess.dll.config
+C:\teste\FiTCARD_Test\DataAccess\bin\Debug\DataAccess.dll
+C:\teste\FiTCARD_Test\DataAccess\bin\Debug\DataAccess.pdb
+C:\teste\FiTCARD_Test\DataAccess\bin\Debug\EntityFramework.dll
+C:\teste\FiTCARD_Test\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\teste\FiTCARD_Test\DataAccess\bin\Debug\Models.dll
+C:\teste\FiTCARD_Test\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\teste\FiTCARD_Test\DataAccess\bin\Debug\Models.pdb
+C:\teste\FiTCARD_Test\DataAccess\bin\Debug\EntityFramework.xml
+C:\teste\FiTCARD_Test\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\teste\FiTCARD_Test\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\teste\FiTCARD_Test\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\teste\FiTCARD_Test\DataAccess\obj\Debug\DataAccess.dll
+C:\teste\FiTCARD_Test\DataAccess\obj\Debug\DataAccess.pdb
+E:\teste\FiTCARD_Test\DataAccess\bin\Debug\DataAccess.dll.config
+E:\teste\FiTCARD_Test\DataAccess\bin\Debug\DataAccess.dll
+E:\teste\FiTCARD_Test\DataAccess\bin\Debug\DataAccess.pdb
+E:\teste\FiTCARD_Test\DataAccess\bin\Debug\EntityFramework.dll
+E:\teste\FiTCARD_Test\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\teste\FiTCARD_Test\DataAccess\bin\Debug\Models.dll
+E:\teste\FiTCARD_Test\DataAccess\bin\Debug\Newtonsoft.Json.dll
+E:\teste\FiTCARD_Test\DataAccess\bin\Debug\Models.pdb
+E:\teste\FiTCARD_Test\DataAccess\bin\Debug\EntityFramework.xml
+E:\teste\FiTCARD_Test\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\teste\FiTCARD_Test\DataAccess\bin\Debug\Newtonsoft.Json.xml
+E:\teste\FiTCARD_Test\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\teste\FiTCARD_Test\DataAccess\obj\Debug\DataAccess.dll
+E:\teste\FiTCARD_Test\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\bin\Debug\Models.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\bin\Debug\Models.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\DataAccess\obj\Debug\DataAccess.pdb

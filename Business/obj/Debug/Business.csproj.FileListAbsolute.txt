@@ -1,0 +1,46 @@
+C:\teste\FiTCARD_Test\Business\bin\Debug\Business.dll.config
+C:\teste\FiTCARD_Test\Business\bin\Debug\Business.dll
+C:\teste\FiTCARD_Test\Business\bin\Debug\Business.pdb
+C:\teste\FiTCARD_Test\Business\bin\Debug\DataAccess.dll
+C:\teste\FiTCARD_Test\Business\bin\Debug\EntityFramework.dll
+C:\teste\FiTCARD_Test\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\teste\FiTCARD_Test\Business\bin\Debug\Models.dll
+C:\teste\FiTCARD_Test\Business\bin\Debug\DataAccess.pdb
+C:\teste\FiTCARD_Test\Business\bin\Debug\Models.pdb
+C:\teste\FiTCARD_Test\Business\bin\Debug\EntityFramework.xml
+C:\teste\FiTCARD_Test\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\teste\FiTCARD_Test\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\teste\FiTCARD_Test\Business\obj\Debug\Business.dll
+C:\teste\FiTCARD_Test\Business\obj\Debug\Business.pdb
+E:\teste\FiTCARD_Test\Business\bin\Debug\Business.dll.config
+E:\teste\FiTCARD_Test\Business\bin\Debug\Business.dll
+E:\teste\FiTCARD_Test\Business\bin\Debug\Business.pdb
+E:\teste\FiTCARD_Test\Business\bin\Debug\DataAccess.dll
+E:\teste\FiTCARD_Test\Business\bin\Debug\EntityFramework.dll
+E:\teste\FiTCARD_Test\Business\bin\Debug\EntityFramework.SqlServer.dll
+E:\teste\FiTCARD_Test\Business\bin\Debug\Models.dll
+E:\teste\FiTCARD_Test\Business\bin\Debug\DataAccess.pdb
+E:\teste\FiTCARD_Test\Business\bin\Debug\Models.pdb
+E:\teste\FiTCARD_Test\Business\bin\Debug\EntityFramework.xml
+E:\teste\FiTCARD_Test\Business\bin\Debug\EntityFramework.SqlServer.xml
+E:\teste\FiTCARD_Test\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\teste\FiTCARD_Test\Business\obj\Debug\Business.dll
+E:\teste\FiTCARD_Test\Business\obj\Debug\Business.pdb
+E:\teste\FiTCARD_Test\Business\bin\Debug\Utilities.dll
+E:\teste\FiTCARD_Test\Business\bin\Debug\Utilities.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\bin\Debug\Business.dll.config
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\bin\Debug\Business.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\bin\Debug\Business.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\bin\Debug\DataAccess.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\bin\Debug\EntityFramework.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\bin\Debug\Models.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\bin\Debug\Utilities.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\bin\Debug\DataAccess.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\bin\Debug\Models.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\bin\Debug\Utilities.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\bin\Debug\EntityFramework.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\obj\Debug\Business.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Business\obj\Debug\Business.pdb

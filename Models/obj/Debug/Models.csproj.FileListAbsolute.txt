@@ -1,0 +1,15 @@
+C:\teste\FiTCARD_Test\Models\bin\Debug\Models.dll
+C:\teste\FiTCARD_Test\Models\bin\Debug\Models.pdb
+C:\teste\FiTCARD_Test\Models\obj\Debug\Models.dll
+C:\teste\FiTCARD_Test\Models\obj\Debug\Models.pdb
+C:\teste\FiTCARD_Test\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\teste\FiTCARD_Test\Models\bin\Debug\Models.dll
+E:\teste\FiTCARD_Test\Models\bin\Debug\Models.pdb
+E:\teste\FiTCARD_Test\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\teste\FiTCARD_Test\Models\obj\Debug\Models.dll
+E:\teste\FiTCARD_Test\Models\obj\Debug\Models.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Models\bin\Debug\Models.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Models\bin\Debug\Models.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Models\obj\Debug\Models.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Models\obj\Debug\Models.pdb

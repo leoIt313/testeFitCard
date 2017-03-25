@@ -1,0 +1,10 @@
+E:\teste\FiTCARD_Test\Utilities\bin\Debug\Utilities.dll
+E:\teste\FiTCARD_Test\Utilities\bin\Debug\Utilities.pdb
+E:\teste\FiTCARD_Test\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\teste\FiTCARD_Test\Utilities\obj\Debug\Utilities.dll
+E:\teste\FiTCARD_Test\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Utilities\bin\Debug\Utilities.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Utilities\obj\Debug\Utilities.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\Utilities\obj\Debug\Utilities.pdb

@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiTCARD_Test", "FiTCARD_Test\FiTCARD_Test.csproj", "{A4353862-1DAB-490C-8C34-66A471FB5FE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{EB3D8D36-0DEC-4C34-A523-1CE5CF1C30C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{00D8314C-972A-4A0D-B1A9-ED4E0DB679FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{D6BB0C8D-670B-42D9-9601-0569D845416D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{459F4EAD-C2D0-4B56-8423-9D971C7D99C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4353862-1DAB-490C-8C34-66A471FB5FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4353862-1DAB-490C-8C34-66A471FB5FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4353862-1DAB-490C-8C34-66A471FB5FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4353862-1DAB-490C-8C34-66A471FB5FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB3D8D36-0DEC-4C34-A523-1CE5CF1C30C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3D8D36-0DEC-4C34-A523-1CE5CF1C30C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3D8D36-0DEC-4C34-A523-1CE5CF1C30C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3D8D36-0DEC-4C34-A523-1CE5CF1C30C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D8314C-972A-4A0D-B1A9-ED4E0DB679FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D8314C-972A-4A0D-B1A9-ED4E0DB679FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D8314C-972A-4A0D-B1A9-ED4E0DB679FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D8314C-972A-4A0D-B1A9-ED4E0DB679FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6BB0C8D-670B-42D9-9601-0569D845416D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BB0C8D-670B-42D9-9601-0569D845416D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BB0C8D-670B-42D9-9601-0569D845416D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BB0C8D-670B-42D9-9601-0569D845416D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{459F4EAD-C2D0-4B56-8423-9D971C7D99C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459F4EAD-C2D0-4B56-8423-9D971C7D99C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459F4EAD-C2D0-4B56-8423-9D971C7D99C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459F4EAD-C2D0-4B56-8423-9D971C7D99C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://swcoding.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = FiTCARD_Test\\FiTCARD_Test.csproj
+		SccProjectName1 = FiTCARD_Test
+		SccLocalPath1 = FiTCARD_Test
+		SccProjectUniqueName2 = Business\\Business.csproj
+		SccProjectName2 = Business
+		SccLocalPath2 = Business
+		SccProjectUniqueName3 = DataAccess\\DataAccess.csproj
+		SccProjectName3 = DataAccess
+		SccLocalPath3 = DataAccess
+		SccProjectUniqueName4 = Models\\Models.csproj
+		SccProjectName4 = Models
+		SccLocalPath4 = Models
+		SccProjectUniqueName5 = Utilities\\Utilities.csproj
+		SccProjectName5 = Utilities
+		SccLocalPath5 = Utilities
+	EndGlobalSection
+EndGlobal

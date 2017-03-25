@@ -1,0 +1,70 @@
+﻿@model List<FiTCARD_Test.Models.ViewModel.Response.ResponseSelecionarEstabelecimentoViewModel>
+
+
+@foreach (var item in Model.ToList())
+{
+    <tr onclick="selecionarLinha(this)">
+        <td>@item.Nome @Html.HiddenFor(x => item.Nome) @Html.HiddenFor(x => item.IdEstabelecimento)</td>
+        <td>@item.NomeFantasia @Html.HiddenFor(x => item.NomeFantasia)</td>
+        <td>@item.CNPJ @Html.HiddenFor(x => item.CNPJ)</td>
+        <td>@item.Email @Html.HiddenFor(x => item.Email)</td>
+        <td>@item.Telefone @Html.HiddenFor(x => item.Telefone)</td>
+        <td>@item.DescricaoCategoria @Html.HiddenFor(x => item.IdCategoria)</td>
+        <td>
+            <button type="button" onclick="Excluir(@item.IdEstabelecimento)">
+                <span class="glyphicon glyphicon-trash"></span>
+            </button>
+        </td>
+    </tr>
+}
+
+<script>
+    function Excluir(idItemEstabelecimento) {
+        abrirLoading();
+
+        var excluir =
+		{
+		    IdEstabelecimento: idItemEstabelecimento
+		};
+
+        $.ajax({
+            url: '@Url.Action("Excluir", "Home")',
+            data: JSON.stringify(excluir),
+            contentType: "application/json",
+            type: 'POST',
+            dataType: 'json',
+            success: function (result) {
+                consultar();
+                fecharLoading();
+                $("#formEstabelecimento").trigger("reset");;
+            },
+            error: function (er) {
+                abrirModalAlerta(er.statusText);
+                fecharLoading();
+            }
+        });
+    }
+
+    function selecionarLinha(elemento) {
+
+        $("tbody").find("tr").removeClass("linha-selecionada");
+        $("tbody").find("tr").css("background-color", "white");
+        $(elemento).css("background-color", "#dcdcdc");
+        $(elemento).addClass("linha-selecionada");
+
+        $(elemento).find("td").each(function () {
+
+            try {
+
+                $(this).find("input").each(function () {
+                    var name = $(this).prop("name").replace("item.", "");
+                    $("#formEstabelecimento").find("[name='" + name + "']").val($(this).val());
+                });
+
+            } catch (e) {
+                console.log(e);
+            }
+
+        });
+    }
+</script>

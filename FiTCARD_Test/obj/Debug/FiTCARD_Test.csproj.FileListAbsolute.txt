@@ -1,0 +1,178 @@
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\ApplicationInsights.config
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\csc.exe
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\System.Collections.Immutable.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\vbc.exe
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\VBCSCompiler.exe
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\VBCSCompiler.exe.config
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\FiTCARD_Test.dll.config
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\FiTCARD_Test.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\FiTCARD_Test.pdb
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Business.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\EntityFramework.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\EntityFramework.SqlServer.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.DependencyCollector.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.Web.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.WindowsServer.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.ApplicationInsights.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.Web.Infrastructure.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Models.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Helpers.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Mvc.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Razor.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Webpages.Deployment.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Webpages.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Webpages.Razor.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\DataAccess.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Business.pdb
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Models.pdb
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\EntityFramework.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\EntityFramework.SqlServer.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.DependencyCollector.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.Web.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.WindowsServer.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.ApplicationInsights.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Razor.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Webpages.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Webpages.Deployment.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Webpages.Razor.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Helpers.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Mvc.xml
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\DataAccess.pdb
+C:\teste\FiTCARD_Test\FiTCARD_Test\obj\Debug\FiTCARD_Test.csprojResolveAssemblyReference.cache
+C:\teste\FiTCARD_Test\FiTCARD_Test\obj\Debug\FiTCARD_Test.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\obj\Debug\FiTCARD_Test.pdb
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\AutoMapper.dll
+C:\teste\FiTCARD_Test\FiTCARD_Test\bin\AutoMapper.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\ApplicationInsights.config
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\csc.exe
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\System.Collections.Immutable.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\System.Reflection.Metadata.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\vbc.exe
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\VBCSCompiler.exe
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\roslyn\VBCSCompiler.exe.config
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\FiTCARD_Test.dll.config
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\FiTCARD_Test.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\FiTCARD_Test.pdb
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\AutoMapper.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Business.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\EntityFramework.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\EntityFramework.SqlServer.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.Agent.Intercept.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.DependencyCollector.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.Web.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.WindowsServer.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.ApplicationInsights.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.Web.Infrastructure.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Models.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Helpers.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Mvc.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Razor.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Webpages.Deployment.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Webpages.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Webpages.Razor.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\DataAccess.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Business.pdb
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Models.pdb
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\AutoMapper.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\EntityFramework.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\EntityFramework.SqlServer.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.DependencyCollector.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.Web.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.AI.WindowsServer.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.ApplicationInsights.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Razor.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Webpages.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Webpages.Deployment.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Webpages.Razor.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Helpers.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\System.Web.Mvc.xml
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\DataAccess.pdb
+E:\teste\FiTCARD_Test\FiTCARD_Test\obj\Debug\FiTCARD_Test.csprojResolveAssemblyReference.cache
+E:\teste\FiTCARD_Test\FiTCARD_Test\obj\Debug\FiTCARD_Test.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\obj\Debug\FiTCARD_Test.pdb
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Utilities.dll
+E:\teste\FiTCARD_Test\FiTCARD_Test\bin\Utilities.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\ApplicationInsights.config
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\roslyn\csc.exe
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\roslyn\vbc.exe
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\roslyn\VBCSCompiler.exe
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\FiTCARD_Test.dll.config
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\FiTCARD_Test.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\FiTCARD_Test.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\AutoMapper.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Business.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\EntityFramework.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\EntityFramework.SqlServer.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.AI.Web.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Models.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\System.Web.Helpers.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\System.Web.Mvc.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\System.Web.Razor.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\System.Web.Webpages.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\System.Web.Webpages.Razor.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\DataAccess.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Utilities.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Business.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Models.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\AutoMapper.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\EntityFramework.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\EntityFramework.SqlServer.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.AI.Web.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\System.Web.Razor.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\System.Web.Webpages.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\System.Web.Webpages.Razor.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\System.Web.Helpers.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\System.Web.Mvc.xml
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\DataAccess.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\bin\Utilities.pdb
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\obj\Debug\FiTCARD_Test.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\obj\Debug\FiTCARD_Test.dll
+C:\Users\Leo\Documents\Visual Studio 2015\Projects\MyFirstProject\FitCard\FiTCARD_Test\obj\Debug\FiTCARD_Test.pdb

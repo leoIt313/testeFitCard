@@ -1,0 +1,249 @@
+﻿@model  FiTCARD_Test.Models.ViewModel.Request.RequestEstabelecimentoViewModel
+
+<hr />
+
+
+<div class="col-lg-12">
+
+    <div class="col-lg-8">
+        @using (Ajax.BeginForm("", "", null, new {@class = "form-signin", id = "formDadosCadastrados", name = "form", onsubmit = "return false;"}))
+        {
+            @Html.TextBoxFor(x => x.Pesquisa, new {@class = "form-control pull-right", @id = "txtPesquisar"})
+
+            <table class="table table-bordered table-responsive">
+                <thead>
+                <tr class="navbar-inverse">
+                    <th>Nome</th>
+                    <th>Nome Fantasia</th>
+                    <th>CNPJ</th>
+                    <th>Email</th>
+                    <th>Telefone</th>
+                    <th>Categoria</th>
+                    <th></th>
+
+                </tr>
+                </thead>
+                <tbody>
+
+                @{
+                    Html.RenderAction("Selecionar", "Home");
+                }
+
+                </tbody>
+            </table>
+        }
+    </div>
+
+    <div class="col-lg-3 inputs-crud">
+
+        @using (Ajax.BeginForm("", "", null, new { @class = "form-signin", id = "formEstabelecimento", name = "form", onsubmit = "return false;" }))
+        {
+            <div class="input-group">
+                <div class="form-group">
+                    <div class="no-padding-right ">
+
+                        @Html.LabelFor(x => x.Nome, new { @class = "input-sm-site" })
+                        @Html.TextBoxFor(x => x.Nome, new { @class = "form-control ", @required = "required" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="no-padding-right">
+                        @Html.LabelFor(x => x.NomeFantasia, new { @class = "input-sm-site" })
+                        @Html.TextBoxFor(x => x.NomeFantasia, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="no-padding-right">
+                        @Html.LabelFor(x => x.CNPJ, new { @class = "input-sm-site" })
+                        @Html.TextBoxFor(x => x.CNPJ, new { @class = "form-control validate", @required = "required", @id = "txtCPNJ" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="no-padding-right">
+                        @Html.LabelFor(x => x.Email, new { @class = "input-sm-site" })
+                        @Html.TextBoxFor(x => x.Email, new { @class = "form-control", @type = "email" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="no-padding-right">
+                        @Html.LabelFor(x => x.Telefone, new { @class = "input-sm-site" })
+                        @Html.TextBoxFor(x => x.Telefone, new { @class = "form-control", @type = "tel", @id = "txtTelefone" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="input-lg">
+                        <div class="form-group">
+                            @Html.DropDownListFor(model => model.IdCategoria, Model.Categorias, new { @class = "form-control" })
+                        </div>
+                    </div>
+                </div>
+
+                @Html.HiddenFor(x => x.IdEstabelecimento)
+            </div>
+
+        }
+
+        <hr />
+        <div class="pull-right">
+            <input type="button" class="btn btn-warning" value="Alterar" id="btnAlterar" />
+            <input type="button" class="btn btn-success" value="Cadastrar" id="btnCadastrar" />
+        </div>
+
+    </div>
+</div>
+
+<script>
+    $(function () {
+
+        $("#txtPesquisar").off().on("keyup", function () {
+            consultar();
+        });
+
+        $("#btnAlterar").off().on("click", function () {
+
+            if ($("#formEstabelecimento").valid()) {
+
+                if (isCNPJValid($("#txtCPNJ").val()))
+                {
+                    abrirLoading();
+                    $.ajax({
+                        url: '@Url.Action("Alterar", "Home")',
+                        data: $('#formEstabelecimento').serialize(),
+                        type: 'POST',
+                        dataType: 'json',
+                        success: function (result) {
+                            consultar();
+                            $("#formEstabelecimento").trigger("reset");
+                            fecharLoading();
+                        },
+                        error: function (er) {
+                            abrirModalAlerta(er.statusText);
+                            fecharLoading();
+                        }
+                    });
+                }
+                else {
+                    abrirModalAlerta("CNPJ invalido!");
+                }
+            }
+           
+        });
+
+        $("#btnCadastrar").off().on("click", function () {
+            if ($("#formEstabelecimento").valid()) {
+                if (isCNPJValid($("#txtCPNJ").val())) {
+                    abrirLoading();
+                    $.ajax({
+                        url: '@Url.Action("Cadastrar", "Home")',
+                        data: $('#formEstabelecimento').serialize(),
+                        type: 'POST',
+                        dataType: 'json',
+                        success: function (result) {
+                            consultar();
+                            $("#formEstabelecimento").trigger("reset");
+                            fecharLoading();
+                        },
+                        error: function (er) {
+
+                            abrirModalAlerta(er.statusText);
+                            fecharLoading();
+                        }
+                    });
+                } else {
+                    abrirModalAlerta("CNPJ invalido!");
+                }
+            }
+        });
+
+        $("#txtCPNJ").mask("99.999.999/9999-99");
+        $("#txtTelefone").mask("(99) 99999-999?9");
+        $("#txtPesquisar").mask("99.999.999/9999-99");
+    });
+
+    function abrirModalAlerta(mensagem) {
+        $("#lblMensagem").html(mensagem);
+        $("#modalGlobal").modal("show");
+    }
+
+    function consultar() {
+        $.ajax({
+            url: '@Url.Action("Selecionar", "Home")',
+            data: $('#formDadosCadastrados').serialize(),
+            type: 'POST',
+            dataType: 'html',
+            success: function (result) {
+                $("tbody").html(result);
+            }
+        });
+    }
+
+    $('#formEstabelecimento').validate({
+        errorElement: 'span',
+        errorPlacement: function (error, element) {
+            error.insertAfter($(element).parent());
+            $(error).addClass("no-padding-top label-error block");
+            $(element).parent().addClass("input-error");
+        },
+        debug: true
+    });
+
+    function isCNPJValid(cnpj) {
+        cnpj = cnpj.replace(/[^\d]+/g, '');
+        if (cnpj == '') return false;
+        if (cnpj.length != 14)
+            return false;
+        // Elimina CNPJs invalidos conhecidos
+        if (cnpj == "00000000000000" ||
+            cnpj == "11111111111111" ||
+            cnpj == "22222222222222" ||
+            cnpj == "33333333333333" ||
+            cnpj == "44444444444444" ||
+            cnpj == "55555555555555" ||
+            cnpj == "66666666666666" ||
+            cnpj == "77777777777777" ||
+            cnpj == "88888888888888" ||
+            cnpj == "99999999999999")
+            return false;
+
+        // Valida DVs
+        tamanho = cnpj.length - 2
+        numeros = cnpj.substring(0, tamanho);
+        digitos = cnpj.substring(tamanho);
+        soma = 0;
+        pos = tamanho - 7;
+        for (i = tamanho; i >= 1; i--) {
+            soma += numeros.charAt(tamanho - i) * pos--;
+            if (pos < 2)
+                pos = 9;
+        }
+        resultado = soma % 11 < 2 ? 0 : 11 - soma % 11;
+        if (resultado != digitos.charAt(0))
+            return false;
+
+        tamanho = tamanho + 1;
+        numeros = cnpj.substring(0, tamanho);
+        soma = 0;
+        pos = tamanho - 7;
+        for (i = tamanho; i >= 1; i--) {
+            soma += numeros.charAt(tamanho - i) * pos--;
+            if (pos < 2)
+                pos = 9;
+        }
+        resultado = soma % 11 < 2 ? 0 : 11 - soma % 11;
+        if (resultado != digitos.charAt(1))
+            return false;
+
+        return true;
+    }
+
+    function abrirLoading() {
+        $(".loader").removeClass("no-display");
+        $(".fundo").removeClass("no-display");
+    }
+
+    function fecharLoading() {
+        $(".loader").addClass("no-display");
+        $(".fundo").addClass("no-display");
+    }
+
+</script>
